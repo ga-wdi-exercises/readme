@@ -12,7 +12,7 @@ If you're not yet a member of either of these organizations on github:
 - https://github.com/ga-wdi-exercises/
 - https://github.com/ga-wdi-lessons/
 
-You can auto-add yourself as a member by logging in here: https://invite-to-github.vvdi.ga/
+You can auto-add yourself as a member by logging in here: https://invite-to-github.wdidc.org/
 with a General Assembly email address
 
 ## Contributing
