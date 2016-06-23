@@ -25,7 +25,7 @@ and one per exercise with great success.
 We recommend using a naming convention like `language-concept-prerequisite`, like
 `js-ajax-jquery-first`.
 
-Each repository can be easily searched by tags with RepoTagger.
+Each repository can be easily searched by tags with [RepoTagger](https://github.com/repotagger/repotagger.github.io) (which can be used with any Github organization or user).
 
 Check the following links for an example:
 
