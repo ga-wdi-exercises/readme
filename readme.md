@@ -1,6 +1,6 @@
 # Resource Bank
 
-Hello wdi instructors!
+Hello WDI instructors!
 
 We have collaborated with several markets to create
 a globally-accessible resource bank of both exercises and lessons.
@@ -19,10 +19,13 @@ with a General Assembly email address
 
 ### Creating new Resources
 
-New and existing members can create an unlimited number of repos. The convention
-is one repository per lesson and one repo per exercise.
+You can create as many repos as you want! We've been doing one repo per lesson
+and one per exercise with great success.
 
-Each repository can be easily searched by tags with repotagger.
+We recommend using a naming convention like `language-concept-prerequisite`, like
+`js-ajax-jquery-first`.
+
+Each repository can be easily searched by tags with RepoTagger.
 
 Check the following links for an example:
 
@@ -34,14 +37,11 @@ description, like this: `[tag-one, tag-two, tag-three]`
 
 ### Editing existing Resources
 
-If you created the repository, you can push directly to the master branch.
-
-If not, please submit a pull request with your updates from a fork. The creator
-of the repo or any owner of the organization can merge pull requests.
+You're welcome to make changes to existing lesson plans! Please just make a pull
+request and the original creator can merge it in.
 
 If you're going to modify the lesson plan heavily (maybe because the prerequisites have changed),
-please create a new repository, tag it accordingly, and provide a descriptive title: e.g. "jquery-with-ajax"
-or "ajax-with-rails"
+please just create a new repository!
 
 ## Styleguide
 
@@ -64,15 +64,3 @@ Should contain:
 - Timings for each section
 - List of prerequisite material
 - Sample quiz questions
-
-
-
-
-
-
-
-
-
-
-
-
