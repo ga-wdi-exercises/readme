@@ -27,16 +27,22 @@ If you're not yet a member of either of these organizations on github:
 The use cases for contributions may vary across markets, so it's good to be aware of what you might see in the two orgs. For example you may see resources contributed that fit any of the following scenarios:
 
 1) A lesson that needs work and additional components.
-    * In this case, instructors should file an issue on the repo and tag resources as **help-wanted**
-    * [agile, help-wanted]
+    * In this case, instructors should file an issue on the repo and tag resources as ***help-wanted**
+    
+        [agile, *help-wanted]
 
 2) Share resources that are outside of the core baseline curriculum
-    * In this case, instructors should tag resource as **flex**
-    * [php, flex]
+    * In this case, instructors should tag resource as ***flex**
+    
+        [php, *flex]
 
 3) Share a great resource that's been vetted and tested in classes by your market
     * In this case, instructors should tag resources with just associated topics
-    * [agile]
+    
+         [agile]
+    
+
+4) Like a lesson? Star is using Github's star rating system! It'll show up in the repotagger as well.
 
 
 
